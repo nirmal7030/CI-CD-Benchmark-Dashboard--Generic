@@ -1,0 +1,34 @@
+# Python virtualenv
+.venv/
+env/
+venv/
+
+# Django / Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# SQLite DB
+db.sqlite3
+
+# IDE / editor stuff# Virtual env
+.venv/
+env/
+venv/
+
+# DB
+db.sqlite3
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# IDE
+.vscode/
+.idea/
+*.log
+
+.vscode/
+.idea/
+*.log
